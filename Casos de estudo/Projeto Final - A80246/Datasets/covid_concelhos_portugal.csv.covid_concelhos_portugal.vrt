@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+    <OGRVRTLayer name="covid_concelhos_portugal-covid_concelhos_portugal">
+        <SrcDataSource relativeToVRT="1">covid_concelhos_portugal.csv</SrcDataSource>
+        <!--Header=False-->
+        <SrcLayer>covid_concelhos_portugal</SrcLayer>
+        <Field name="data" src="data" type="String"/>
+        <Field name="ABRANTES" src="ABRANTES" type="String"/>
+        <Field name="AGUIAR DA BEIRA" src="AGUIAR DA BEIRA" type="String"/>
+        <Field name="ALANDROAL" src="ALANDROAL" type="String"/>
+        <Field name="ALBERGARIA-A-VELHA" src="ALBERGARIA-A-VELHA" type="String"/>
+        <Field name="ALBUFEIRA" src="ALBUFEIRA" type="String"/>
+        <Field name="ALCANENA" src="ALCANENA" type="String"/>
+        <Field name="ALCOBAÇA" src="ALCOBAÇA" type="String"/>
+        <Field name="ALCOCHETE" src="ALCOCHETE" type="String"/>
+        <Field name="ALCOUTIM" src="ALCOUTIM" type="String"/>
+        <Field name="ALCÁCER DO SAL" src="ALCÁCER DO SAL" type="String"/>
+        <Field name="ALENQUER" src="ALENQUER" type="String"/>
+        <Field name="ALFÂNDEGA DA FÉ" src="ALFÂNDEGA DA FÉ" type="String"/>
+        <Field name="ALIJÓ" src="ALIJÓ" type="String"/>
+        <Field name="ALJEZUR" src="ALJEZUR" type="String"/>
+        <Field name="ALJUSTREL" src="ALJUSTREL" type="String"/>
+        <Field name="ALMADA" src="ALMADA" type="String"/>
+        <Field name="ALMEIDA" src="ALMEIDA" type="String"/>
+        <Field name="ALMEIRIM" src="ALMEIRIM" type="String"/>
+        <Field name="ALMODÔVAR" src="ALMODÔVAR" type="String"/>
+        <Field name="ALPIARÇA" src="ALPIARÇA" type="String"/>
+        <Field name="ALTER DO CHÃO" src="ALTER DO CHÃO" type="String"/>
+        <Field name="ALVAIÁZERE" src="ALVAIÁZERE" type="String"/>
+        <Field name="ALVITO" src="ALVITO" type="String"/>
+        <Field name="AMADORA" src="AMADORA" type="String"/>
+        <Field name="AMARANTE" src="AMARANTE" type="String"/>
+        <Field name="AMARES" src="AMARES" type="String"/>
+        <Field name="ANADIA" src="ANADIA" type="String"/>
+        <Field name="ANGRA DO HEROÍSMO" src="ANGRA DO HEROÍSMO" type="String"/>
+        <Field name="ANSIÃO" src="ANSIÃO" type="String"/>
+        <Field name="ARCOS DE VALDEVEZ" src="ARCOS DE VALDEVEZ" type="String"/>
+        <Field name="ARGANIL" src="ARGANIL" type="String"/>
+        <Field name="ARMAMAR" src="ARMAMAR" type="String"/>
+        <Field name="AROUCA" src="AROUCA" type="String"/>
+        <Field name="ARRAIOLOS" src="ARRAIOLOS" type="String"/>
+        <Field name="ARRONCHES" src="ARRONCHES" type="String"/>
+        <Field name="ARRUDA DOS VINHOS" src="ARRUDA DOS VINHOS" type="String"/>
+        <Field name="AVEIRO" src="AVEIRO" type="String"/>
+        <Field name="AVIS" src="AVIS" type="String"/>
+        <Field name="AZAMBUJA" src="AZAMBUJA" type="String"/>
+        <Field name="BAIÃO" src="BAIÃO" type="String"/>
+        <Field name="BARCELOS" src="BARCELOS" type="String"/>
+        <Field name="BARRANCOS" src="BARRANCOS" type="String"/>
+        <Field name="BARREIRO" src="BARREIRO" type="String"/>
+        <Field name="BATALHA" src="BATALHA" type="String"/>
+        <Field name="BEJA" src="BEJA" type="String"/>
+        <Field name="BELMONTE" src="BELMONTE" type="String"/>
+        <Field name="BENAVENTE" src="BENAVENTE" type="String"/>
+        <Field name="BOMBARRAL" src="BOMBARRAL" type="String"/>
+        <Field name="BORBA" src="BORBA" type="String"/>
+        <Field name="BOTICAS" src="BOTICAS" type="String"/>
+        <Field name="BRAGA" src="BRAGA" type="String"/>
+        <Field name="BRAGANÇA" src="BRAGANÇA" type="String"/>
+        <Field name="CABECEIRAS DE BASTO" src="CABECEIRAS DE BASTO" type="String"/>
+        <Field name="CADAVAL" src="CADAVAL" type="String"/>
+        <Field name="CALDAS DA RAINHA" src="CALDAS DA RAINHA" type="String"/>
+        <Field name="CALHETA" src="CALHETA" type="String"/>
+        <Field name="CALHETA (AÇORES)" src="CALHETA (AÇORES)" type="String"/>
+        <Field name="CAMINHA" src="CAMINHA" type="String"/>
+        <Field name="CAMPO MAIOR" src="CAMPO MAIOR" type="String"/>
+        <Field name="CANTANHEDE" src="CANTANHEDE" type="String"/>
+        <Field name="CARRAZEDA DE ANSIÃES" src="CARRAZEDA DE ANSIÃES" type="String"/>
+        <Field name="CARREGAL DO SAL" src="CARREGAL DO SAL" type="String"/>
+        <Field name="CARTAXO" src="CARTAXO" type="String"/>
+        <Field name="CASCAIS" src="CASCAIS" type="String"/>
+        <Field name="CASTANHEIRA DE PÊRA" src="CASTANHEIRA DE PÊRA" type="String"/>
+        <Field name="CASTELO BRANCO" src="CASTELO BRANCO" type="String"/>
+        <Field name="CASTELO DE PAIVA" src="CASTELO DE PAIVA" type="String"/>
+        <Field name="CASTELO DE VIDE" src="CASTELO DE VIDE" type="String"/>
+        <Field name="CASTRO DAIRE" src="CASTRO DAIRE" type="String"/>
+        <Field name="CASTRO MARIM" src="CASTRO MARIM" type="String"/>
+        <Field name="CASTRO VERDE" src="CASTRO VERDE" type="String"/>
+        <Field name="CELORICO DA BEIRA" src="CELORICO DA BEIRA" type="String"/>
+        <Field name="CELORICO DE BASTO" src="CELORICO DE BASTO" type="String"/>
+        <Field name="CHAMUSCA" src="CHAMUSCA" type="String"/>
+        <Field name="CHAVES" src="CHAVES" type="String"/>
+        <Field name="CINFÃES" src="CINFÃES" type="String"/>
+        <Field name="COIMBRA" src="COIMBRA" type="String"/>
+        <Field name="CONDEIXA-A-NOVA" src="CONDEIXA-A-NOVA" type="String"/>
+        <Field name="CONSTÂNCIA" src="CONSTÂNCIA" type="String"/>
+        <Field name="CORUCHE" src="CORUCHE" type="String"/>
+        <Field name="CORVO" src="CORVO" type="String"/>
+        <Field name="COVILHÃ" src="COVILHÃ" type="String"/>
+        <Field name="CRATO" src="CRATO" type="String"/>
+        <Field name="CUBA" src="CUBA" type="String"/>
+        <Field name="CÂMARA DE LOBOS" src="CÂMARA DE LOBOS" type="String"/>
+        <Field name="ELVAS" src="ELVAS" type="String"/>
+        <Field name="ENTRONCAMENTO" src="ENTRONCAMENTO" type="String"/>
+        <Field name="ESPINHO" src="ESPINHO" type="String"/>
+        <Field name="ESPOSENDE" src="ESPOSENDE" type="String"/>
+        <Field name="ESTARREJA" src="ESTARREJA" type="String"/>
+        <Field name="ESTREMOZ" src="ESTREMOZ" type="String"/>
+        <Field name="FAFE" src="FAFE" type="String"/>
+        <Field name="FARO" src="FARO" type="String"/>
+        <Field name="FELGUEIRAS" src="FELGUEIRAS" type="String"/>
+        <Field name="FERREIRA DO ALENTEJO" src="FERREIRA DO ALENTEJO" type="String"/>
+        <Field name="FERREIRA DO ZÊZERE" src="FERREIRA DO ZÊZERE" type="String"/>
+        <Field name="FIGUEIRA DA FOZ" src="FIGUEIRA DA FOZ" type="String"/>
+        <Field name="FIGUEIRA DE CASTELO RODRIGO" src="FIGUEIRA DE CASTELO RODRIGO" type="String"/>
+        <Field name="FIGUEIRÓ DOS VINHOS" src="FIGUEIRÓ DOS VINHOS" type="String"/>
+        <Field name="FORNOS DE ALGODRES" src="FORNOS DE ALGODRES" type="String"/>
+        <Field name="FREIXO DE ESPADA À CINTA" src="FREIXO DE ESPADA À CINTA" type="String"/>
+        <Field name="FRONTEIRA" src="FRONTEIRA" type="String"/>
+        <Field name="FUNCHAL" src="FUNCHAL" type="String"/>
+        <Field name="FUNDÃO" src="FUNDÃO" type="String"/>
+        <Field name="GAVIÃO" src="GAVIÃO" type="String"/>
+        <Field name="GOLEGÃ" src="GOLEGÃ" type="String"/>
+        <Field name="GONDOMAR" src="GONDOMAR" type="String"/>
+        <Field name="GOUVEIA" src="GOUVEIA" type="String"/>
+        <Field name="GRÂNDOLA" src="GRÂNDOLA" type="String"/>
+        <Field name="GUARDA" src="GUARDA" type="String"/>
+        <Field name="GUIMARÃES" src="GUIMARÃES" type="String"/>
+        <Field name="GÓIS" src="GÓIS" type="String"/>
+        <Field name="HORTA" src="HORTA" type="String"/>
+        <Field name="IDANHA-A-NOVA" src="IDANHA-A-NOVA" type="String"/>
+        <Field name="LAGOA" src="LAGOA" type="String"/>
+        <Field name="LAGOA (FARO)" src="LAGOA (FARO)" type="String"/>
+        <Field name="LAGOS" src="LAGOS" type="String"/>
+        <Field name="LAJES DAS FLORES" src="LAJES DAS FLORES" type="String"/>
+        <Field name="LAJES DO PICO" src="LAJES DO PICO" type="String"/>
+        <Field name="LAMEGO" src="LAMEGO" type="String"/>
+        <Field name="LEIRIA" src="LEIRIA" type="String"/>
+        <Field name="LISBOA" src="LISBOA" type="String"/>
+        <Field name="LOULÉ" src="LOULÉ" type="String"/>
+        <Field name="LOURES" src="LOURES" type="String"/>
+        <Field name="LOURINHÃ" src="LOURINHÃ" type="String"/>
+        <Field name="LOUSADA" src="LOUSADA" type="String"/>
+        <Field name="LOUSÃ" src="LOUSÃ" type="String"/>
+        <Field name="MACEDO DE CAVALEIROS" src="MACEDO DE CAVALEIROS" type="String"/>
+        <Field name="MACHICO" src="MACHICO" type="String"/>
+        <Field name="MADALENA" src="MADALENA" type="String"/>
+        <Field name="MAFRA" src="MAFRA" type="String"/>
+        <Field name="MAIA" src="MAIA" type="String"/>
+        <Field name="MANGUALDE" src="MANGUALDE" type="String"/>
+        <Field name="MANTEIGAS" src="MANTEIGAS" type="String"/>
+        <Field name="MARCO DE CANAVESES" src="MARCO DE CANAVESES" type="String"/>
+        <Field name="MARINHA GRANDE" src="MARINHA GRANDE" type="String"/>
+        <Field name="MARVÃO" src="MARVÃO" type="String"/>
+        <Field name="MATOSINHOS" src="MATOSINHOS" type="String"/>
+        <Field name="MAÇÃO" src="MAÇÃO" type="String"/>
+        <Field name="MEALHADA" src="MEALHADA" type="String"/>
+        <Field name="MELGAÇO" src="MELGAÇO" type="String"/>
+        <Field name="MESÃO FRIO" src="MESÃO FRIO" type="String"/>
+        <Field name="MIRA" src="MIRA" type="String"/>
+        <Field name="MIRANDA DO CORVO" src="MIRANDA DO CORVO" type="String"/>
+        <Field name="MIRANDA DO DOURO" src="MIRANDA DO DOURO" type="String"/>
+        <Field name="MIRANDELA" src="MIRANDELA" type="String"/>
+        <Field name="MOGADOURO" src="MOGADOURO" type="String"/>
+        <Field name="MOIMENTA DA BEIRA" src="MOIMENTA DA BEIRA" type="String"/>
+        <Field name="MOITA" src="MOITA" type="String"/>
+        <Field name="MONCHIQUE" src="MONCHIQUE" type="String"/>
+        <Field name="MONDIM DE BASTO" src="MONDIM DE BASTO" type="String"/>
+        <Field name="MONFORTE" src="MONFORTE" type="String"/>
+        <Field name="MONTALEGRE" src="MONTALEGRE" type="String"/>
+        <Field name="MONTEMOR-O-NOVO" src="MONTEMOR-O-NOVO" type="String"/>
+        <Field name="MONTEMOR-O-VELHO" src="MONTEMOR-O-VELHO" type="String"/>
+        <Field name="MONTIJO" src="MONTIJO" type="String"/>
+        <Field name="MONÇÃO" src="MONÇÃO" type="String"/>
+        <Field name="MORA" src="MORA" type="String"/>
+        <Field name="MORTÁGUA" src="MORTÁGUA" type="String"/>
+        <Field name="MOURA" src="MOURA" type="String"/>
+        <Field name="MOURÃO" src="MOURÃO" type="String"/>
+        <Field name="MURTOSA" src="MURTOSA" type="String"/>
+        <Field name="MURÇA" src="MURÇA" type="String"/>
+        <Field name="MÉRTOLA" src="MÉRTOLA" type="String"/>
+        <Field name="MÊDA" src="MÊDA" type="String"/>
+        <Field name="NAZARÉ" src="NAZARÉ" type="String"/>
+        <Field name="NELAS" src="NELAS" type="String"/>
+        <Field name="NISA" src="NISA" type="String"/>
+        <Field name="NORDESTE" src="NORDESTE" type="String"/>
+        <Field name="ODEMIRA" src="ODEMIRA" type="String"/>
+        <Field name="ODIVELAS" src="ODIVELAS" type="String"/>
+        <Field name="OEIRAS" src="OEIRAS" type="String"/>
+        <Field name="OLEIROS" src="OLEIROS" type="String"/>
+        <Field name="OLHÃO" src="OLHÃO" type="String"/>
+        <Field name="OLIVEIRA DE AZEMÉIS" src="OLIVEIRA DE AZEMÉIS" type="String"/>
+        <Field name="OLIVEIRA DE FRADES" src="OLIVEIRA DE FRADES" type="String"/>
+        <Field name="OLIVEIRA DO BAIRRO" src="OLIVEIRA DO BAIRRO" type="String"/>
+        <Field name="OLIVEIRA DO HOSPITAL" src="OLIVEIRA DO HOSPITAL" type="String"/>
+        <Field name="OURIQUE" src="OURIQUE" type="String"/>
+        <Field name="OURÉM" src="OURÉM" type="String"/>
+        <Field name="OVAR" src="OVAR" type="String"/>
+        <Field name="PALMELA" src="PALMELA" type="String"/>
+        <Field name="PAMPILHOSA DA SERRA" src="PAMPILHOSA DA SERRA" type="String"/>
+        <Field name="PAREDES" src="PAREDES" type="String"/>
+        <Field name="PAREDES DE COURA" src="PAREDES DE COURA" type="String"/>
+        <Field name="PAÇOS DE FERREIRA" src="PAÇOS DE FERREIRA" type="String"/>
+        <Field name="PEDRÓGÃO GRANDE" src="PEDRÓGÃO GRANDE" type="String"/>
+        <Field name="PENACOVA" src="PENACOVA" type="String"/>
+        <Field name="PENAFIEL" src="PENAFIEL" type="String"/>
+        <Field name="PENALVA DO CASTELO" src="PENALVA DO CASTELO" type="String"/>
+        <Field name="PENAMACOR" src="PENAMACOR" type="String"/>
+        <Field name="PENEDONO" src="PENEDONO" type="String"/>
+        <Field name="PENELA" src="PENELA" type="String"/>
+        <Field name="PENICHE" src="PENICHE" type="String"/>
+        <Field name="PESO DA RÉGUA" src="PESO DA RÉGUA" type="String"/>
+        <Field name="PINHEL" src="PINHEL" type="String"/>
+        <Field name="POMBAL" src="POMBAL" type="String"/>
+        <Field name="PONTA DELGADA" src="PONTA DELGADA" type="String"/>
+        <Field name="PONTA DO SOL" src="PONTA DO SOL" type="String"/>
+        <Field name="PONTE DA BARCA" src="PONTE DA BARCA" type="String"/>
+        <Field name="PONTE DE LIMA" src="PONTE DE LIMA" type="String"/>
+        <Field name="PONTE DE SOR" src="PONTE DE SOR" type="String"/>
+        <Field name="PORTALEGRE" src="PORTALEGRE" type="String"/>
+        <Field name="PORTEL" src="PORTEL" type="String"/>
+        <Field name="PORTIMÃO" src="PORTIMÃO" type="String"/>
+        <Field name="PORTO" src="PORTO" type="String"/>
+        <Field name="PORTO DE MÓS" src="PORTO DE MÓS" type="String"/>
+        <Field name="PORTO MONIZ" src="PORTO MONIZ" type="String"/>
+        <Field name="PORTO SANTO" src="PORTO SANTO" type="String"/>
+        <Field name="POVOAÇÃO" src="POVOAÇÃO" type="String"/>
+        <Field name="PROENÇA-A-NOVA" src="PROENÇA-A-NOVA" type="String"/>
+        <Field name="PÓVOA DE LANHOSO" src="PÓVOA DE LANHOSO" type="String"/>
+        <Field name="PÓVOA DE VARZIM" src="PÓVOA DE VARZIM" type="String"/>
+        <Field name="REDONDO" src="REDONDO" type="String"/>
+        <Field name="REGUENGOS DE MONSARAZ" src="REGUENGOS DE MONSARAZ" type="String"/>
+        <Field name="RESENDE" src="RESENDE" type="String"/>
+        <Field name="RIBEIRA BRAVA" src="RIBEIRA BRAVA" type="String"/>
+        <Field name="RIBEIRA DE PENA" src="RIBEIRA DE PENA" type="String"/>
+        <Field name="RIBEIRA GRANDE" src="RIBEIRA GRANDE" type="String"/>
+        <Field name="RIO MAIOR" src="RIO MAIOR" type="String"/>
+        <Field name="SABROSA" src="SABROSA" type="String"/>
+        <Field name="SABUGAL" src="SABUGAL" type="String"/>
+        <Field name="SALVATERRA DE MAGOS" src="SALVATERRA DE MAGOS" type="String"/>
+        <Field name="SANTA COMBA DÃO" src="SANTA COMBA DÃO" type="String"/>
+        <Field name="SANTA CRUZ" src="SANTA CRUZ" type="String"/>
+        <Field name="SANTA CRUZ DA GRACIOSA" src="SANTA CRUZ DA GRACIOSA" type="String"/>
+        <Field name="SANTA CRUZ DAS FLORES" src="SANTA CRUZ DAS FLORES" type="String"/>
+        <Field name="SANTA MARIA DA FEIRA" src="SANTA MARIA DA FEIRA" type="String"/>
+        <Field name="SANTA MARTA DE PENAGUIÃO" src="SANTA MARTA DE PENAGUIÃO" type="String"/>
+        <Field name="SANTANA" src="SANTANA" type="String"/>
+        <Field name="SANTARÉM" src="SANTARÉM" type="String"/>
+        <Field name="SANTIAGO DO CACÉM" src="SANTIAGO DO CACÉM" type="String"/>
+        <Field name="SANTO TIRSO" src="SANTO TIRSO" type="String"/>
+        <Field name="SARDOAL" src="SARDOAL" type="String"/>
+        <Field name="SEIA" src="SEIA" type="String"/>
+        <Field name="SEIXAL" src="SEIXAL" type="String"/>
+        <Field name="SERNANCELHE" src="SERNANCELHE" type="String"/>
+        <Field name="SERPA" src="SERPA" type="String"/>
+        <Field name="SERTÃ" src="SERTÃ" type="String"/>
+        <Field name="SESIMBRA" src="SESIMBRA" type="String"/>
+        <Field name="SETÚBAL" src="SETÚBAL" type="String"/>
+        <Field name="SEVER DO VOUGA" src="SEVER DO VOUGA" type="String"/>
+        <Field name="SILVES" src="SILVES" type="String"/>
+        <Field name="SINES" src="SINES" type="String"/>
+        <Field name="SINTRA" src="SINTRA" type="String"/>
+        <Field name="SOBRAL DE MONTE AGRAÇO" src="SOBRAL DE MONTE AGRAÇO" type="String"/>
+        <Field name="SOURE" src="SOURE" type="String"/>
+        <Field name="SOUSEL" src="SOUSEL" type="String"/>
+        <Field name="SÁTÃO" src="SÁTÃO" type="String"/>
+        <Field name="SÃO BRÁS DE ALPORTEL" src="SÃO BRÁS DE ALPORTEL" type="String"/>
+        <Field name="SÃO JOÃO DA MADEIRA" src="SÃO JOÃO DA MADEIRA" type="String"/>
+        <Field name="SÃO JOÃO DA PESQUEIRA" src="SÃO JOÃO DA PESQUEIRA" type="String"/>
+        <Field name="SÃO PEDRO DO SUL" src="SÃO PEDRO DO SUL" type="String"/>
+        <Field name="SÃO ROQUE DO PICO" src="SÃO ROQUE DO PICO" type="String"/>
+        <Field name="SÃO VICENTE" src="SÃO VICENTE" type="String"/>
+        <Field name="TABUAÇO" src="TABUAÇO" type="String"/>
+        <Field name="TAROUCA" src="TAROUCA" type="String"/>
+        <Field name="TAVIRA" src="TAVIRA" type="String"/>
+        <Field name="TERRAS DE BOURO" src="TERRAS DE BOURO" type="String"/>
+        <Field name="TOMAR" src="TOMAR" type="String"/>
+        <Field name="TONDELA" src="TONDELA" type="String"/>
+        <Field name="TORRE DE MONCORVO" src="TORRE DE MONCORVO" type="String"/>
+        <Field name="TORRES NOVAS" src="TORRES NOVAS" type="String"/>
+        <Field name="TORRES VEDRAS" src="TORRES VEDRAS" type="String"/>
+        <Field name="TRANCOSO" src="TRANCOSO" type="String"/>
+        <Field name="TROFA" src="TROFA" type="String"/>
+        <Field name="TÁBUA" src="TÁBUA" type="String"/>
+        <Field name="VAGOS" src="VAGOS" type="String"/>
+        <Field name="VALE DE CAMBRA" src="VALE DE CAMBRA" type="String"/>
+        <Field name="VALENÇA" src="VALENÇA" type="String"/>
+        <Field name="VALONGO" src="VALONGO" type="String"/>
+        <Field name="VALPAÇOS" src="VALPAÇOS" type="String"/>
+        <Field name="VELAS" src="VELAS" type="String"/>
+        <Field name="VENDAS NOVAS" src="VENDAS NOVAS" type="String"/>
+        <Field name="VIANA DO ALENTEJO" src="VIANA DO ALENTEJO" type="String"/>
+        <Field name="VIANA DO CASTELO" src="VIANA DO CASTELO" type="String"/>
+        <Field name="VIDIGUEIRA" src="VIDIGUEIRA" type="String"/>
+        <Field name="VIEIRA DO MINHO" src="VIEIRA DO MINHO" type="String"/>
+        <Field name="VILA DA PRAIA DA VITÓRIA" src="VILA DA PRAIA DA VITÓRIA" type="String"/>
+        <Field name="VILA DE REI" src="VILA DE REI" type="String"/>
+        <Field name="VILA DO BISPO" src="VILA DO BISPO" type="String"/>
+        <Field name="VILA DO CONDE" src="VILA DO CONDE" type="String"/>
+        <Field name="VILA DO PORTO" src="VILA DO PORTO" type="String"/>
+        <Field name="VILA FLOR" src="VILA FLOR" type="String"/>
+        <Field name="VILA FRANCA DE XIRA" src="VILA FRANCA DE XIRA" type="String"/>
+        <Field name="VILA FRANCA DO CAMPO" src="VILA FRANCA DO CAMPO" type="String"/>
+        <Field name="VILA NOVA DA BARQUINHA" src="VILA NOVA DA BARQUINHA" type="String"/>
+        <Field name="VILA NOVA DE CERVEIRA" src="VILA NOVA DE CERVEIRA" type="String"/>
+        <Field name="VILA NOVA DE FAMALICÃO" src="VILA NOVA DE FAMALICÃO" type="String"/>
+        <Field name="VILA NOVA DE FOZ CÔA" src="VILA NOVA DE FOZ CÔA" type="String"/>
+        <Field name="VILA NOVA DE GAIA" src="VILA NOVA DE GAIA" type="String"/>
+        <Field name="VILA NOVA DE PAIVA" src="VILA NOVA DE PAIVA" type="String"/>
+        <Field name="VILA NOVA DE POIARES" src="VILA NOVA DE POIARES" type="String"/>
+        <Field name="VILA POUCA DE AGUIAR" src="VILA POUCA DE AGUIAR" type="String"/>
+        <Field name="VILA REAL" src="VILA REAL" type="String"/>
+        <Field name="VILA REAL DE SANTO ANTÓNIO" src="VILA REAL DE SANTO ANTÓNIO" type="String"/>
+        <Field name="VILA VELHA DE RÓDÃO" src="VILA VELHA DE RÓDÃO" type="String"/>
+        <Field name="VILA VERDE" src="VILA VERDE" type="String"/>
+        <Field name="VILA VIÇOSA" src="VILA VIÇOSA" type="String"/>
+        <Field name="VIMIOSO" src="VIMIOSO" type="String"/>
+        <Field name="VINHAIS" src="VINHAIS" type="String"/>
+        <Field name="VISEU" src="VISEU" type="String"/>
+        <Field name="VIZELA" src="VIZELA" type="String"/>
+        <Field name="VOUZELA" src="VOUZELA" type="String"/>
+        <Field name="ÁGUEDA" src="ÁGUEDA" type="String"/>
+        <Field name="ÉVORA" src="ÉVORA" type="String"/>
+        <Field name="ÍLHAVO" src="ÍLHAVO" type="String"/>
+        <Field name="ÓBIDOS" src="ÓBIDOS" type="String"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
